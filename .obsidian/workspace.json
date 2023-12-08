@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "41a01f12f2ca78ac",
+        "id": "befac2d0dbfd1917",
         "type": "tabs",
         "children": [
           {
-            "id": "2c82d9bcfbb8d407",
+            "id": "2e3595ce3d025bf9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "KPI Map.canvas",
+                "viewState": {
+                  "x": 2971.9578300104736,
+                  "y": -1066.7364174771556,
+                  "zoom": -1.9200590582436272
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "KPI Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "KPI Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "KPI Map.canvas"
+              }
             }
           },
           {
@@ -134,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,19 +160,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c82d9bcfbb8d407",
+  "active": "2e3595ce3d025bf9",
   "lastOpenFiles": [
-    "README.md",
-    "KPI Map.canvas",
-    "Untitled Kanban.md",
-    "Excalidraw/Drawing 2023-12-08 17.01.07.excalidraw.md",
-    "Excalidraw",
-    "Work Management KPI's/10.010 Preventative Maintenance Compliance.md",
-    "Work Management KPI's/10.000 Execution KPI View Details.md",
     "Work Management KPI's/05.000 Schedule KPI View Details.md",
-    "Work Management KPI's/1.Overview - Interactive.md",
+    "Work Management KPI's/10.001 Compliance To Plan.md",
+    "Work Management KPI's/10.005 Compliance To Plan Operations.md",
+    "Work Management KPI's/10.010 Preventative Maintenance Compliance.md",
+    "Work Management KPI's/10.020 Scheduled Maintenance Ratio.md",
+    "Work Management KPI's/10.015 Statutory Compliance.md",
+    "KPI Map.canvas",
+    "WMKPI/000.005 Interactive Summary.md",
+    "WMKPI/030.025 Scheduled Maintenance Ratio.md",
+    "WMKPI/035.000 Complete Summary.md",
+    "WMKPI/035.005 Subsequent Work.md",
+    "BAU/To Do List.md",
+    "Excalidraw/Drawing 2023-12-08 17.01.07.excalidraw.md",
+    "2023-12-08.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Work Management KPI's/2.Paginated A4 Report - Executive -GM.md",
     "Work Management KPI's/01.000 Identify.md",
-    "2023-12-08.md"
+    "Work Management KPI's/1.Overview - Interactive.md",
+    "WMKPI/000.000 Executive Summary.md",
+    "WMKPI/010.010 Planning Lead Time.md",
+    "WMKPI/010.005 Approved Unactioned Notifications.md",
+    "WMKPI/010.000 Plan Summary.md",
+    "WMKPI/005.005 Outstanding New Notifications.md",
+    "WMKPI/005.000 Identify Summary.md",
+    "WMKPI/040.005 Outstanding Work Duration.md",
+    "WMKPI/040.000 Analyse Summary.md",
+    "WMKPI/035.015 Labour Utilisation Rate (Time Confirmations).md",
+    "WMKPI/035.010 Work Orders Closed with Failure Code.md",
+    "WMKPI 2/Build.sh",
+    "WMKPI",
+    "Work Management KPI's/Untitled",
+    "Excalidraw"
   ]
 }

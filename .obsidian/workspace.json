@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "afd8f9d2153d7792",
+    "type": "split",
+    "children": [
+      {
+        "id": "41a01f12f2ca78ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c82d9bcfbb8d407",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bfe3711448feb1de",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2c5e63203e30720",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b809811fe98fd99b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5bad368916cb7e4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b82a65341275bbf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "53d772aa2afb52b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac9cdf79b48f06e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b1b42b7d2112c13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc2415b3014535d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a2dd18dfd16624b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6ed02f6b65d07391",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "cdee57172a15c824",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "2c82d9bcfbb8d407",
+  "lastOpenFiles": [
+    "README.md",
+    "KPI Map.canvas",
+    "Untitled Kanban.md",
+    "Excalidraw/Drawing 2023-12-08 17.01.07.excalidraw.md",
+    "Excalidraw",
+    "Work Management KPI's/10.010 Preventative Maintenance Compliance.md",
+    "Work Management KPI's/10.000 Execution KPI View Details.md",
+    "Work Management KPI's/05.000 Schedule KPI View Details.md",
+    "Work Management KPI's/1.Overview - Interactive.md",
+    "Work Management KPI's/2.Paginated A4 Report - Executive -GM.md",
+    "Work Management KPI's/01.000 Identify.md",
+    "2023-12-08.md"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"f9f4f13a6cc23bb4","type":"file","file":"Work Management KPI's/10.000 Execution KPI View Details.md","x":-460,"y":-1480,"width":920,"height":1360,"color":"5"},
+		{"id":"bdf428c26d85fa60","type":"file","file":"Work Management KPI's/10.005 Compliance To Plan Operations.md","x":800,"y":-1120,"width":721,"height":309},
+		{"id":"801f4065af0e1c77","type":"file","file":"Work Management KPI's/10.010 Preventative Maintenance Compliance.md","x":800,"y":-720,"width":721,"height":460},
+		{"id":"0662146d4ef212ea","type":"file","file":"Work Management KPI's/10.015 Statutory Compliance.md","x":800,"y":-200,"width":721,"height":620},
+		{"id":"8dae314b739cf368","type":"file","file":"Work Management KPI's/10.020 Scheduled Maintenance Ratio.md","x":800,"y":480,"width":721,"height":360},
+		{"id":"cbc6437e6f7fe08f","type":"file","file":"Work Management KPI's/10.001 Compliance To Plan.md","x":800,"y":-1480,"width":721,"height":280},
+		{"id":"a146cf55aed91d46","type":"file","file":"Work Management KPI's/1.Overview - Interactive.md","x":1840,"y":-1480,"width":760,"height":1240},
+		{"id":"9dd1f00e494480a3","type":"file","file":"Work Management KPI's/2.Paginated A4 Report - Executive -GM.md","x":-1840,"y":-2620,"width":720,"height":1900},
+		{"id":"a1844483364a1467","type":"file","file":"Work Management KPI's/05.000 Schedule KPI View Details.md","x":-460,"y":-3000,"width":920,"height":1480},
+		{"id":"b32a8724a97e82cf","type":"file","file":"Work Management KPI's/05.000 Schedule KPI View Details.md","x":1000,"y":-3400,"width":920,"height":1480}
+	],
+	"edges":[
+		{"id":"c610850c68948d78","fromNode":"f9f4f13a6cc23bb4","fromSide":"right","toNode":"cbc6437e6f7fe08f","toSide":"left"},
+		{"id":"77000e3cc1c0cc3a","fromNode":"f9f4f13a6cc23bb4","fromSide":"right","toNode":"bdf428c26d85fa60","toSide":"left"},
+		{"id":"7f94581617ebbe51","fromNode":"f9f4f13a6cc23bb4","fromSide":"right","toNode":"801f4065af0e1c77","toSide":"left"},
+		{"id":"47b02e364975935e","fromNode":"f9f4f13a6cc23bb4","fromSide":"right","toNode":"0662146d4ef212ea","toSide":"left"},
+		{"id":"a2aac88de0eeed35","fromNode":"f9f4f13a6cc23bb4","fromSide":"right","toNode":"8dae314b739cf368","toSide":"left"},
+		{"id":"285edec0ecd5dcb8","fromNode":"9dd1f00e494480a3","fromSide":"right","toNode":"a1844483364a1467","toSide":"left"},
+		{"id":"25791bfb470eb257","fromNode":"9dd1f00e494480a3","fromSide":"right","toNode":"f9f4f13a6cc23bb4","toSide":"left"}
+	]
+}

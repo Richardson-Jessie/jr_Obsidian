@@ -1,0 +1,13 @@
+touch 000.000\ Executive\ Summary
+touch 005.000\ Identify
+touch 010.000\ Plan
+touch 015.000\ Schedule
+touch 020.000\ Execute
+touch 020.005\ Statutory Compliance
+touch 020.010\ Preventative\ Maintenance\ Compliance
+touch 020.015\ Compliance\ To\ Plan
+touch 020.020\ Compliance\ To\ Plan Operational
+touch 020.025\ Compliance\ To\ Plan Operational
+
+touch 025.000\ Complete
+touch 030.000\ Analyse

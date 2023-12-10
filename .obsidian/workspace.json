@@ -11,8 +11,11 @@
             "id": "9c79900b599a9a85",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": true
+              }
             }
           }
         ]
@@ -44,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#SeniorPlanners",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -157,8 +160,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cdee57172a15c824",
+  "active": "9c79900b599a9a85",
   "lastOpenFiles": [
+    "WMKPI/030.000 Execution Summary.md",
+    "WMKPI/000.000 Executive Summary.md",
+    "WMKPI/005.000 Identify Summary.md",
+    "WMKPI/000.005 Interactive Summary.md",
     "WMKPI/010.015 Labour Estimate Accuracy.md",
     "KPI Map.canvas",
     "WMKPI/030.025 Scheduled Maintenance Ratio.md",
@@ -173,11 +180,7 @@
     "BAU/To Do List.md",
     "BAU/Weekly Update.canvas",
     "WMKPI/040.000 Analyse Summary.md",
-    "WMKPI/000.005 Interactive Summary.md",
-    "WMKPI/005.000 Identify Summary.md",
     "WMKPI/005.005 Outstanding New Notifications.md",
-    "WMKPI/000.000 Executive Summary.md",
-    "WMKPI/030.000 Execution Summary.md",
     "WMKPI/035.000 Complete Summary.md",
     "Excalidraw/Drawing 2023-12-08 22.18.18.excalidraw.md",
     "Excalidraw/Drawing 2023-12-08 17.01.07.excalidraw.md",

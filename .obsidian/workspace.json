@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "befac2d0dbfd1917",
+        "id": "09b91fa2cc85dd07",
         "type": "tabs",
         "children": [
           {
-            "id": "2e3595ce3d025bf9",
+            "id": "74cfaee8a1804d3b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "KPI Map.canvas",
-                "viewState": {
-                  "x": 2971.9578300104736,
-                  "y": -1066.7364174771556,
-                  "zoom": -1.9200590582436272
-                }
+                "file": "WMKPI/010.015 Labour Estimate Accuracy.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KPI Map.canvas",
+                "file": "WMKPI/010.015 Labour Estimate Accuracy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KPI Map.canvas",
+                "file": "WMKPI/010.015 Labour Estimate Accuracy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KPI Map.canvas"
+                "file": "WMKPI/010.015 Labour Estimate Accuracy.md"
               }
             }
           },
@@ -141,12 +138,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,37 +156,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2e3595ce3d025bf9",
+  "active": "74cfaee8a1804d3b",
   "lastOpenFiles": [
+    "KPI Map.canvas",
+    "WMKPI/030.025 Scheduled Maintenance Ratio.md",
+    "WMKPI/020.000 Schedule Summary.md",
+    "Pasted image 20231211053556.png",
+    "WMKPI/030.005 Statutory Compliance.md",
+    "WMKPI/030.015 Compliance to Plan.md",
+    "WMKPI/010.000 Plan Summary.md",
+    "WMKPI/010.005 Approved Unactioned Notifications.md",
+    "WMKPI/010.010 Planning Lead Time.md",
+    "WMKPI/010.015 Labour Estimate Accuracy.md",
+    "WMKPI/010.020 Catalogue Materials.md",
+    "BAU/To Do List.md",
+    "BAU/Weekly Update.canvas",
+    "WMKPI/040.000 Analyse Summary.md",
+    "WMKPI/000.005 Interactive Summary.md",
+    "WMKPI/005.000 Identify Summary.md",
+    "WMKPI/005.005 Outstanding New Notifications.md",
+    "WMKPI/000.000 Executive Summary.md",
+    "WMKPI/030.000 Execution Summary.md",
+    "WMKPI/035.000 Complete Summary.md",
+    "Excalidraw/Drawing 2023-12-08 22.18.18.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-08 17.01.07.excalidraw.md",
     "Work Management KPI's/05.000 Schedule KPI View Details.md",
     "Work Management KPI's/10.001 Compliance To Plan.md",
     "Work Management KPI's/10.005 Compliance To Plan Operations.md",
     "Work Management KPI's/10.010 Preventative Maintenance Compliance.md",
     "Work Management KPI's/10.020 Scheduled Maintenance Ratio.md",
     "Work Management KPI's/10.015 Statutory Compliance.md",
-    "KPI Map.canvas",
-    "WMKPI/000.005 Interactive Summary.md",
-    "WMKPI/030.025 Scheduled Maintenance Ratio.md",
-    "WMKPI/035.000 Complete Summary.md",
-    "WMKPI/035.005 Subsequent Work.md",
-    "BAU/To Do List.md",
-    "Excalidraw/Drawing 2023-12-08 17.01.07.excalidraw.md",
-    "2023-12-08.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Work Management KPI's/2.Paginated A4 Report - Executive -GM.md",
-    "Work Management KPI's/01.000 Identify.md",
-    "Work Management KPI's/1.Overview - Interactive.md",
-    "WMKPI/000.000 Executive Summary.md",
-    "WMKPI/010.010 Planning Lead Time.md",
-    "WMKPI/010.005 Approved Unactioned Notifications.md",
-    "WMKPI/010.000 Plan Summary.md",
-    "WMKPI/005.005 Outstanding New Notifications.md",
-    "WMKPI/005.000 Identify Summary.md",
-    "WMKPI/040.005 Outstanding Work Duration.md",
-    "WMKPI/040.000 Analyse Summary.md",
-    "WMKPI/035.015 Labour Utilisation Rate (Time Confirmations).md",
-    "WMKPI/035.010 Work Orders Closed with Failure Code.md",
     "WMKPI 2/Build.sh",
     "WMKPI",
     "Work Management KPI's/Untitled",

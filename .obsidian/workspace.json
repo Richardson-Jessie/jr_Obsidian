@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "09b91fa2cc85dd07",
+        "id": "fb30b99f728f988e",
         "type": "tabs",
         "children": [
           {
-            "id": "74cfaee8a1804d3b",
+            "id": "9c79900b599a9a85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WMKPI/010.015 Labour Estimate Accuracy.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WMKPI/010.015 Labour Estimate Accuracy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WMKPI/010.015 Labour Estimate Accuracy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WMKPI/010.015 Labour Estimate Accuracy.md"
-              }
+              "state": {}
             }
           },
           {
@@ -136,13 +129,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "3d15064fabe21c60",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 918.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +157,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74cfaee8a1804d3b",
+  "active": "cdee57172a15c824",
   "lastOpenFiles": [
+    "WMKPI/010.015 Labour Estimate Accuracy.md",
     "KPI Map.canvas",
     "WMKPI/030.025 Scheduled Maintenance Ratio.md",
     "WMKPI/020.000 Schedule Summary.md",
@@ -167,7 +169,6 @@
     "WMKPI/010.000 Plan Summary.md",
     "WMKPI/010.005 Approved Unactioned Notifications.md",
     "WMKPI/010.010 Planning Lead Time.md",
-    "WMKPI/010.015 Labour Estimate Accuracy.md",
     "WMKPI/010.020 Catalogue Materials.md",
     "BAU/To Do List.md",
     "BAU/Weekly Update.canvas",

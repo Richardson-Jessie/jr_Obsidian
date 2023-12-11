@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "35fbaca8aecc4a9b",
+        "id": "6b396afaea46d1d9",
         "type": "tabs",
         "children": [
           {
-            "id": "3587446a02f1df19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z97.Notes/Stat Compliance Variance Calcs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da124879f43d7df8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z97.Notes/Reasons for Non Compliance Stat Completion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5683408106d29e8d",
+            "id": "bb1a792b96f5d7ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "path:",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -175,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 918.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,48 +164,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5683408106d29e8d",
+  "active": "bb1a792b96f5d7ed",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "BAU/To Do List.md",
+    "BAU/Weekly Update.canvas",
+    "WMKPI/000.000 Executive Summary.md",
+    "WMKPI/000.005 Interactive Summary.md",
+    "WMKPI/005.000 Identify Summary.md",
+    "WMKPI/010.005 Approved Unactioned Notifications.md",
+    "WMKPI/030.025 Scheduled Maintenance Ratio.md",
+    "WMKPI/035.000 Complete Summary.md",
+    "WMKPI/030.020 Compliance to Plan Operational Work Centre.md",
+    "WMKPI/030.005 Statutory Compliance.md",
+    "WMKPI/030.015 Compliance to Plan.md",
+    "WMKPI/035.005 Subsequent Work.md",
+    "WMKPI/030.000 Execution Summary.md",
+    "WMKPI/030.010 Preventative Maintenance Compliance.md",
+    "WMKPI/020.000 Schedule Summary.md",
+    "WMKPI/005.005 Outstanding New Notifications.md",
+    "KPI Map.canvas",
+    "Northy LV Email.md",
     "CCMPSM01_38Q11202_Christmas Creek Mine Site Nullagine RD AHS Install Workshop Office_0085_001.pdf",
-    "CCMPSM01_38Q11202_Christmas Creek Mine Site Nullagine RD AHS Install Workshop Office_0084_001.pdf",
     "CCMPSM01_38Q11202_Christmas Creek Mine Site Nullagine RD AHS Install Workshop Office_0083_001.pdf",
-    "CLBPSM01_2YN12466-CLB_PRN_MM_Planners_3325_001.pdf",
+    "CLBPSM01_2YN12466-CLB_PRN_MM_Planners_3321_001.pdf",
     "CLBPSM01_2YN12466-CLB_PRN_MM_Planners_3324_001.pdf",
+    "CLBPSM01_2YN12466-CLB_PRN_MM_Planners_3325_001.pdf",
+    "Z98.Pictures/Pasted image 20231211105534.png",
+    "Z98.Pictures",
+    "Z97.Notes/Work Management Standard Suggestions.md",
+    "Z97.Notes/Time Confirmation KPI Issues.md",
+    "Z97.Notes/Stat Compliance Variance Calcs.md",
+    "Z97.Notes/Reasons for Non Compliance Stat Completion.md",
+    "Z97.Notes",
     "CLBPSM01_2YN12466-CLB_PRN_MM_Planners_3323_001.pdf",
     "CLBPSM01_2YN12466-CLB_PRN_MM_Planners_3322_001.pdf",
-    "CLBPSM01_2YN12466-CLB_PRN_MM_Planners_3321_001.pdf",
     "CCMPSM01_38Q11202_Christmas Creek Mine Site Nullagine RD AHS Install Workshop Office_0087_001.pdf",
-    "CCMPSM01_38Q11202_Christmas Creek Mine Site Nullagine RD AHS Install Workshop Office_0086_001.pdf",
-    "Z97.Notes/Reasons for Non Compliance Stat Completion.md",
-    "WMKPI/030.005 Statutory Compliance.md",
-    "WMKPI/030.000 Execution Summary.md",
-    "WMKPI/000.005 Interactive Summary.md",
-    "Z97.Notes/Stat Compliance Variance Calcs.md",
-    "KPI Map.canvas",
-    "Z98.Pictures/Pasted image 20231211105534.png",
-    "Z97.Notes/Time Confirmation KPI Issues.md",
-    "Z97.Notes/Work Management Standard Suggestions.md",
-    "WMKPI/035.015 Labour Utilisation Rate (Time Confirmations).md",
-    "WMKPI/030.015 Compliance to Plan.md",
-    "WMKPI/030.025 Scheduled Maintenance Ratio.md",
     "Untitled.canvas",
+    "WMKPI/010.015 Labour Estimate Accuracy.md",
+    "Pasted image 20231211053556.png",
+    "WMKPI/010.000 Plan Summary.md",
     "WMKPI/010.010 Planning Lead Time.md",
     "WMKPI/010.020 Catalogue Materials.md",
-    "WMKPI/010.015 Labour Estimate Accuracy.md",
-    "WMKPI/010.005 Approved Unactioned Notifications.md",
-    "WMKPI/010.000 Plan Summary.md",
-    "WMKPI/005.005 Outstanding New Notifications.md",
-    "WMKPI/005.000 Identify Summary.md",
-    "WMKPI/000.000 Executive Summary.md",
-    "BAU/Weekly Update.canvas",
-    "Work Management Standard Sugugestions.md",
-    "KPI Map.md",
-    "North LV Email.md",
-    "Pasted image 20231211053556.png",
-    "Northy LV Email.md",
-    "WMKPI/020.000 Schedule Summary.md",
+    "BAU/To Do List.md",
     "WMKPI/040.000 Analyse Summary.md",
     "Untitled 1.canvas"
   ]

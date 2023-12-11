@@ -7,11 +7,15 @@
 - [ ] Finish FSPEC For Table Variants
 - [ ] Dom Broom - Kat Bown - Outstanding Work Report
 - [ ] Test FFI Pims Links
-- [ ] Set Up Date  - For Next Senior Planner Forum
+	- [ ] Send Email to Jo Doyle Explaining
+- [x] Set Up Date  - For Next Senior Planner Forum
+- [ ] Respond To Northy [[North LV Email]]
+# Matt Survey December
+Implement Improved Suite of WMKPI [[KPI Map.canvas|KPI Map]]
+Implement Training Matrix
+Blog Posts
+- [ ] Organise Catchup with Finance System / WMS Equivalent
 
 
 
-Hasso Platner
-1972
-Systems, Applications & Products in Data Processing
-SAP Project Reference Object
+[[Work Management Standard Suggestions]]

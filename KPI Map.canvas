@@ -17,12 +17,12 @@
 		{"id":"d85b3696d67c1624","type":"file","file":"WMKPI/005.005 Outstanding New Notifications.md","x":2560,"y":-9780,"width":800,"height":620},
 		{"id":"5c7521fff67e52c8","type":"file","file":"WMKPI/005.000 Identify Summary.md","x":1040,"y":-9780,"width":960,"height":620},
 		{"id":"063d62d8a2f080e3","type":"file","file":"WMKPI/010.000 Plan Summary.md","x":1040,"y":-9120,"width":959,"height":2960},
-		{"id":"671b03dfcdc6b889","type":"file","file":"WMKPI/035.000 Complete Summary.md","x":1040,"y":-1880,"width":960,"height":1880},
 		{"id":"5eb873b485945a4e","type":"file","file":"WMKPI/035.005 Subsequent Work.md","x":2560,"y":-1880,"width":800,"height":600},
 		{"id":"5319fb237d4ed1ee","type":"file","file":"WMKPI/035.010 Work Orders Closed with Failure Code.md","x":2560,"y":-1240,"width":800,"height":600},
 		{"id":"9dd1f53ed6585927","type":"file","file":"WMKPI/035.015 Labour Utilisation Rate (Time Confirmations).md","x":2560,"y":-600,"width":800,"height":600},
 		{"id":"866f0826e98e3e07","type":"file","file":"WMKPI/040.005 Outstanding Work Duration.md","x":2560,"y":40,"width":800,"height":600},
-		{"id":"96cbcedba0df5f88","type":"file","file":"WMKPI/040.000 Analyse Summary.md","x":1040,"y":40,"width":960,"height":600}
+		{"id":"96cbcedba0df5f88","type":"file","file":"WMKPI/040.000 Analyse Summary.md","x":1040,"y":40,"width":960,"height":600},
+		{"id":"671b03dfcdc6b889","type":"file","file":"WMKPI/035.000 Complete Summary.md","x":1040,"y":-1880,"width":960,"height":1880}
 	],
 	"edges":[
 		{"id":"4dabb50d42ce9ad7","fromNode":"90934fc9a8630b77","fromSide":"right","toNode":"c208fc9ebce63f7a","toSide":"left"},

@@ -20,3 +20,8 @@ Blog Posts
 
 
 [[Work Management Standard Suggestions]]
+
+
+[[Universal Notes For KPI]]
+
+[[KPI Map.canvas|KPI Map]]

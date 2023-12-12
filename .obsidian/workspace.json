@@ -13,13 +13,65 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "WMKPI/Universal Notes For KPI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f229c66190ffdb71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "BAU/To Do List.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "19c71e63f477108a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WMKPI/Universal Notes For KPI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "925d7be60ac575be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BAU/To Do List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc607bcc6dfd144f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "KPI Map.canvas",
+                "viewState": {
+                  "x": 2807.9843776643534,
+                  "y": -5197.872537329485,
+                  "zoom": 0.41327427508970577
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -48,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +117,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BAU/To Do List.md",
+                "file": "KPI Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BAU/To Do List.md",
+                "file": "KPI Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BAU/To Do List.md"
+                "file": "KPI Map.canvas"
               }
             }
           },
@@ -164,8 +217,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb1a792b96f5d7ed",
+  "active": "fc607bcc6dfd144f",
   "lastOpenFiles": [
+    "WMKPI/Universal Notes For KPI.md",
+    "KPI Map.canvas",
+    "BAU/To Do List.md",
+    "WMKPI/030.020 Compliance to Plan Operational Work Centre.md",
+    "WMKPI/030.015 Compliance to Plan.md",
     "BAU/Weekly Update.canvas",
     "WMKPI/000.000 Executive Summary.md",
     "WMKPI/000.005 Interactive Summary.md",
@@ -173,15 +231,12 @@
     "WMKPI/010.005 Approved Unactioned Notifications.md",
     "WMKPI/030.025 Scheduled Maintenance Ratio.md",
     "WMKPI/035.000 Complete Summary.md",
-    "WMKPI/030.020 Compliance to Plan Operational Work Centre.md",
     "WMKPI/030.005 Statutory Compliance.md",
-    "WMKPI/030.015 Compliance to Plan.md",
     "WMKPI/035.005 Subsequent Work.md",
     "WMKPI/030.000 Execution Summary.md",
     "WMKPI/030.010 Preventative Maintenance Compliance.md",
     "WMKPI/020.000 Schedule Summary.md",
     "WMKPI/005.005 Outstanding New Notifications.md",
-    "KPI Map.canvas",
     "Northy LV Email.md",
     "CCMPSM01_38Q11202_Christmas Creek Mine Site Nullagine RD AHS Install Workshop Office_0085_001.pdf",
     "CCMPSM01_38Q11202_Christmas Creek Mine Site Nullagine RD AHS Install Workshop Office_0083_001.pdf",
@@ -204,8 +259,6 @@
     "WMKPI/010.000 Plan Summary.md",
     "WMKPI/010.010 Planning Lead Time.md",
     "WMKPI/010.020 Catalogue Materials.md",
-    "BAU/To Do List.md",
-    "WMKPI/040.000 Analyse Summary.md",
     "Untitled 1.canvas"
   ]
 }

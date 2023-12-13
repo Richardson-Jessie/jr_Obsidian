@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7d3524cf5503ac23",
+        "id": "4387e71a612e666b",
         "type": "tabs",
         "children": [
           {
-            "id": "5917c0ad0fbfc894",
+            "id": "636ae4967d56c21e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-12-13 17.53.25.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -67,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "53d772aa2afb52b8",
@@ -84,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-13 17.53.25.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-13 17.53.25.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-12-13 17.53.25.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,20 +155,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5917c0ad0fbfc894",
+  "active": "636ae4967d56c21e",
   "lastOpenFiles": [
+    "BAU/CAB.md",
+    "WMKPI/000.000 Executive Summary.md",
+    "Excalidraw/Drawing 2023-12-13 17.53.25.excalidraw.md",
+    "Excalidraw/MEB HPS.md",
+    "Excalidraw/Drawing 2023-12-13 13.10.05.excalidraw.md",
+    "KPI Map.canvas",
+    "Drawing 2023-12-14 05.13.33.excalidraw.md",
+    "Untitled.canvas",
     "BAU/To Do List.md",
     "BAU/Weekly Update.canvas",
-    "Excalidraw/Drawing 2023-12-13 17.53.25.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-13 13.10.05.excalidraw.md",
-    "BAU/CAB.md",
     "Z99.Junk/SAPProjectReferenceObject1!.md",
     "Z97.Notes/Reasons for Non Compliance Stat Completion.md",
     "Z97.Notes/Stat Compliance Variance Calcs.md",
     "Z97.Notes/Time Confirmation KPI Issues.md",
     "Z97.Notes/Work Management Standard Suggestions.md",
     "WMKPI/030.005 Statutory Compliance.md",
-    "KPI Map.canvas",
     "Z98.Pictures/Pasted Image 20231213131034_512.png",
     "Z99.Junk/Northy LV Email.md",
     "Z99.Junk/KPI's Hyperlinks.md",
@@ -186,9 +182,7 @@
     "WMKPI/Universal Notes For KPI.md",
     "README.md",
     "2023-12-08.md",
-    "Untitled.canvas",
     "WMKPI/030.000 Execution Summary.md",
-    "WMKPI/000.000 Executive Summary.md",
     "[KPI Map.canvas",
     "WMKPI/030.020 Compliance to Plan Operational Work Centre.md",
     "WMKPI/030.015 Compliance to Plan.md",
@@ -197,7 +191,6 @@
     "WMKPI/010.005 Approved Unactioned Notifications.md",
     "WMKPI/030.025 Scheduled Maintenance Ratio.md",
     "WMKPI/035.000 Complete Summary.md",
-    "WMKPI/035.005 Subsequent Work.md",
     "CCMPSM01_38Q11202_Christmas Creek Mine Site Nullagine RD AHS Install Workshop Office_0085_001.pdf",
     "CCMPSM01_38Q11202_Christmas Creek Mine Site Nullagine RD AHS Install Workshop Office_0083_001.pdf",
     "CLBPSM01_2YN12466-CLB_PRN_MM_Planners_3321_001.pdf",

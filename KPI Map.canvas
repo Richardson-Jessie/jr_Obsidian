@@ -23,7 +23,8 @@
 		{"id":"866f0826e98e3e07","type":"file","file":"WMKPI/040.005 Outstanding Work Duration.md","x":2560,"y":40,"width":800,"height":600},
 		{"id":"96cbcedba0df5f88","type":"file","file":"WMKPI/040.000 Analyse Summary.md","x":1040,"y":40,"width":960,"height":600},
 		{"id":"671b03dfcdc6b889","type":"file","file":"WMKPI/035.000 Complete Summary.md","x":1040,"y":-1880,"width":960,"height":1880},
-		{"id":"2f4601f16664ce79","x":-2200,"y":-6080,"width":1000,"height":1160,"type":"file","file":"WMKPI/Universal Notes For KPI.md"}
+		{"id":"2f4601f16664ce79","type":"file","file":"WMKPI/Universal Notes For KPI.md","x":-2200,"y":-6080,"width":1000,"height":1160},
+		{"id":"b6c429579dbd0eec","x":-4200,"y":-5040,"width":1920,"height":1440,"type":"file","file":"Excalidraw/Drawing 2023-12-13 13.10.05.excalidraw.md"}
 	],
 	"edges":[
 		{"id":"4dabb50d42ce9ad7","fromNode":"90934fc9a8630b77","fromSide":"right","toNode":"c208fc9ebce63f7a","toSide":"left"},

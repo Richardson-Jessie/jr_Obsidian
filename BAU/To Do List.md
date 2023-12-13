@@ -11,6 +11,12 @@
 - [x] Set Up Date  - For Next Senior Planner Forum
 - [ ] Respond To Northy [[North LV Email]]
 - [ ] Stephen Campain -- Data Origin Indicator Email
+- [ ] Respond To LV Lady
+
+SELECT * FROM "QUERY"."WorkOrderLongTextString_Temporal" WHERE "OrderNumber" = '002100283802';
+
+
+
 # Matt Survey December
 Implement Improved Suite of WMKPI [[KPI Map.canvas|KPI Map]]
 Implement Training Matrix

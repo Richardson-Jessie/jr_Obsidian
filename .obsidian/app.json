@@ -2,5 +2,6 @@
   "promptDelete": false,
   "attachmentFolderPath": "Z98.Pictures",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Z97.Notes"
+  "newFileFolderPath": "Z97.Notes",
+  "alwaysUpdateLinks": true
 }

@@ -2,8 +2,7 @@
 	"nodes":[
 		{"id":"90934fc9a8630b77","type":"file","file":"WMKPI/030.000 Execution Summary.md","x":1040,"y":-5400,"width":959,"height":3480},
 		{"id":"c208fc9ebce63f7a","type":"file","file":"WMKPI/030.005 Statutory Compliance.md","x":2562,"y":-5400,"width":807,"height":680},
-		{"id":"b7b09391a6555387","type":"file","file":"WMKPI/030.010 Preventative Maintenance Compliance.md","x":2562,"y":-4680,"width":807,"height":680},
-		{"id":"c91a27e77979d6a6","type":"file","file":"WMKPI/030.015 Compliance to Plan.md","x":2560,"y":-3960,"width":809,"height":680},
+		{"id":"c91a27e77979d6a6","type":"file","file":"WMKPI/030.015 Compliance to Plan.md","x":2560,"y":-3960,"width":800,"height":680},
 		{"id":"8cfc7ea457dd9e07","type":"file","file":"WMKPI/030.020 Compliance to Plan Operational Work Centre.md","x":2560,"y":-3240,"width":809,"height":680},
 		{"id":"4cc554fe7bf70b04","type":"file","file":"WMKPI/030.025 Scheduled Maintenance Ratio.md","x":2560,"y":-2520,"width":809,"height":600},
 		{"id":"8497987e8d2ba873","type":"file","file":"WMKPI/000.000 Executive Summary.md","x":-2200,"y":-4800,"width":1000,"height":1060},
@@ -17,14 +16,18 @@
 		{"id":"d85b3696d67c1624","type":"file","file":"WMKPI/005.005 Outstanding New Notifications.md","x":2560,"y":-9780,"width":800,"height":620},
 		{"id":"5c7521fff67e52c8","type":"file","file":"WMKPI/005.000 Identify Summary.md","x":1040,"y":-9780,"width":960,"height":620},
 		{"id":"063d62d8a2f080e3","type":"file","file":"WMKPI/010.000 Plan Summary.md","x":1040,"y":-9120,"width":959,"height":2960},
-		{"id":"5eb873b485945a4e","type":"file","file":"WMKPI/035.005 Subsequent Work.md","x":2560,"y":-1880,"width":800,"height":600},
-		{"id":"5319fb237d4ed1ee","type":"file","file":"WMKPI/035.010 Work Orders Closed with Failure Code.md","x":2560,"y":-1240,"width":800,"height":600},
 		{"id":"9dd1f53ed6585927","type":"file","file":"WMKPI/035.015 Labour Utilisation Rate (Time Confirmations).md","x":2560,"y":-600,"width":800,"height":600},
 		{"id":"866f0826e98e3e07","type":"file","file":"WMKPI/040.005 Outstanding Work Duration.md","x":2560,"y":40,"width":800,"height":600},
 		{"id":"96cbcedba0df5f88","type":"file","file":"WMKPI/040.000 Analyse Summary.md","x":1040,"y":40,"width":960,"height":600},
 		{"id":"671b03dfcdc6b889","type":"file","file":"WMKPI/035.000 Complete Summary.md","x":1040,"y":-1880,"width":960,"height":1880},
-		{"id":"2f4601f16664ce79","type":"file","file":"WMKPI/Universal Notes For KPI.md","x":-2200,"y":-6080,"width":1000,"height":1160},
-		{"id":"b6c429579dbd0eec","x":-4200,"y":-5040,"width":1920,"height":1440,"type":"file","file":"Excalidraw/Drawing 2023-12-13 13.10.05.excalidraw.md"}
+		{"id":"b6c429579dbd0eec","type":"file","file":"Excalidraw/Drawing 2023-12-13 13.10.05.excalidraw.md","x":-4240,"y":-6120,"width":1920,"height":1440},
+		{"id":"2f4601f16664ce79","type":"file","file":"WMKPI/Universal Notes For KPI.md","x":-2240,"y":-6080,"width":1000,"height":1160},
+		{"id":"5eb873b485945a4e","type":"file","file":"WMKPI/035.005 Subsequent Work.md","x":2560,"y":-1880,"width":800,"height":600},
+		{"id":"5319fb237d4ed1ee","type":"file","file":"WMKPI/035.010 Work Orders Closed with Failure Code.md","x":2560,"y":-1240,"width":800,"height":600},
+		{"id":"0b9b2cc43657b737","type":"file","file":"Z98.Pictures/Pasted image 20231214094045.png","x":3440,"y":-1240,"width":760,"height":817},
+		{"id":"b7b09391a6555387","type":"file","file":"WMKPI/030.010 Preventative Maintenance Compliance.md","x":2560,"y":-4680,"width":800,"height":680},
+		{"id":"372e6dbc49c38070","type":"file","file":"Excalidraw/SUMMARY to Dashboard Wire Frame.md","x":-3926,"y":-4529,"width":1646,"height":1249},
+		{"id":"2006c284fc136b6b","type":"file","file":"Excalidraw/SUMMARY to Dashboard Wire Frame.md","x":1080,"y":-4080,"width":800,"height":870}
 	],
 	"edges":[
 		{"id":"4dabb50d42ce9ad7","fromNode":"90934fc9a8630b77","fromSide":"right","toNode":"c208fc9ebce63f7a","toSide":"left"},
@@ -47,12 +50,12 @@
 		{"id":"df53d4bd307dc93b","fromNode":"8497987e8d2ba873","fromSide":"right","toNode":"5c7521fff67e52c8","toSide":"left"},
 		{"id":"1a1fb491af133590","fromNode":"07379457aa739265","fromSide":"right","toNode":"5c7521fff67e52c8","toSide":"left"},
 		{"id":"740650be9d297be6","fromNode":"671b03dfcdc6b889","fromSide":"right","toNode":"5eb873b485945a4e","toSide":"left"},
-		{"id":"db96cba4fabb96a0","fromNode":"671b03dfcdc6b889","fromSide":"right","toNode":"5319fb237d4ed1ee","toSide":"left"},
 		{"id":"835ce0307e67f55c","fromNode":"671b03dfcdc6b889","fromSide":"right","toNode":"9dd1f53ed6585927","toSide":"left"},
 		{"id":"37a04ab78889ef35","fromNode":"96cbcedba0df5f88","fromSide":"right","toNode":"866f0826e98e3e07","toSide":"left"},
 		{"id":"912c26cc450c439d","fromNode":"07379457aa739265","fromSide":"right","toNode":"671b03dfcdc6b889","toSide":"left"},
 		{"id":"7a6e005f03db6d39","fromNode":"07379457aa739265","fromSide":"right","toNode":"96cbcedba0df5f88","toSide":"left"},
 		{"id":"eb6bd6b0c31eff2b","fromNode":"8497987e8d2ba873","fromSide":"right","toNode":"671b03dfcdc6b889","toSide":"left"},
-		{"id":"bc4c1bae252f4729","fromNode":"8497987e8d2ba873","fromSide":"right","toNode":"96cbcedba0df5f88","toSide":"left"}
+		{"id":"bc4c1bae252f4729","fromNode":"8497987e8d2ba873","fromSide":"right","toNode":"96cbcedba0df5f88","toSide":"left"},
+		{"id":"db96cba4fabb96a0","fromNode":"671b03dfcdc6b889","fromSide":"right","toNode":"5319fb237d4ed1ee","toSide":"left"}
 	]
 }

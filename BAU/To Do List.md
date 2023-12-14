@@ -12,10 +12,11 @@
 - [ ] Respond To Northy [[North LV Email]]
 - [ ] Stephen Campain -- Data Origin Indicator Email
 - [ ] Respond To LV Lady
+- [ ] Pulse Survey Remind Team
 
 SELECT * FROM "QUERY"."WorkOrderLongTextString_Temporal" WHERE "OrderNumber" = '002100283802';
 
-
+[[CHange Freeze]]
 
 # Matt Survey December
 Implement Improved Suite of WMKPI [[KPI Map.canvas|KPI Map]]

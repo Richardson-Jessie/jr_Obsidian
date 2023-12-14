@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "afd8f9d2153d7792",
+    "id": "3bf4091534656474",
     "type": "split",
     "children": [
       {
-        "id": "4387e71a612e666b",
+        "id": "e68a8109e77020c6",
         "type": "tabs",
         "children": [
           {
-            "id": "636ae4967d56c21e",
+            "id": "65e6adb85b30384b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bfe3711448feb1de",
+    "id": "cd83ff2d4a208373",
     "type": "split",
     "children": [
       {
-        "id": "d2c5e63203e30720",
+        "id": "cc9bed1f59f59e1a",
         "type": "tabs",
         "children": [
           {
-            "id": "b809811fe98fd99b",
+            "id": "8f7ac981dab7b951",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "5bad368916cb7e4f",
+            "id": "5a74a4830013c0d1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "0b82a65341275bbf",
+            "id": "1937bfeb425b4649",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "53d772aa2afb52b8",
+    "id": "dd753b75494a1696",
     "type": "split",
     "children": [
       {
-        "id": "ac9cdf79b48f06e4",
+        "id": "594ab6e97dd36e47",
         "type": "tabs",
         "children": [
           {
-            "id": "9b1b42b7d2112c13",
+            "id": "7f8f88a0f7906ffd",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "cc2415b3014535d9",
+            "id": "4aea059303a09d4d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "1a2dd18dfd16624b",
+            "id": "4cd0da231c3c9982",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,93 +114,62 @@
             }
           },
           {
-            "id": "6ed02f6b65d07391",
+            "id": "ada5ed2200dde04c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
-          },
-          {
-            "id": "cdee57172a15c824",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "3d15064fabe21c60",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 505.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "636ae4967d56c21e",
+  "active": "ada5ed2200dde04c",
   "lastOpenFiles": [
-    "BAU/CAB.md",
-    "WMKPI/000.000 Executive Summary.md",
-    "Excalidraw/Drawing 2023-12-13 17.53.25.excalidraw.md",
-    "Excalidraw/MEB HPS.md",
-    "Excalidraw/Drawing 2023-12-13 13.10.05.excalidraw.md",
-    "KPI Map.canvas",
-    "Drawing 2023-12-14 05.13.33.excalidraw.md",
-    "Untitled.canvas",
-    "BAU/To Do List.md",
-    "BAU/Weekly Update.canvas",
-    "Z99.Junk/SAPProjectReferenceObject1!.md",
-    "Z97.Notes/Reasons for Non Compliance Stat Completion.md",
+    "WMKPI/035.000 Complete Summary.md",
+    "WMKPI/035.005 Subsequent Work.md",
+    "Excalidraw/SUMMARY to Dashboard Wire Frame.md",
+    "Z97.Notes/CHange Freeze.md",
+    "Z97.Notes/Final Due Date.md",
     "Z97.Notes/Stat Compliance Variance Calcs.md",
+    "Excalidraw/Drawing 2023-12-13 13.10.05.excalidraw.md",
+    "BAU.zip",
+    "Excalidraw/Drawing 2023-12-13 17.53.25.excalidraw.md",
+    "Excalidraw/Example of Compliance Trends.md",
+    "Excalidraw/MEB HPS.md",
+    "WMKPI/Universal Notes For KPI.md",
+    "KPI Map.canvas",
+    "BAU/To Do List.md",
+    "BAU/CAB.md",
+    "BAU/Weekly Update.canvas",
+    "Z97.Notes/Reasons for Non Compliance Stat Completion.md",
+    "WMKPI/030.005 Statutory Compliance.md",
+    "WMKPI/030.000 Execution Summary.md",
+    "WMKPI/000.000 Executive Summary.md",
+    "Z97.Notes/Where do we Analyse these PM82.md",
+    "Z98.Pictures/Pasted image 20231214094206.png",
+    "Z98.Pictures/Pasted image 20231214094045.png",
     "Z97.Notes/Time Confirmation KPI Issues.md",
     "Z97.Notes/Work Management Standard Suggestions.md",
-    "WMKPI/030.005 Statutory Compliance.md",
-    "Z98.Pictures/Pasted Image 20231213131034_512.png",
-    "Z99.Junk/Northy LV Email.md",
-    "Z99.Junk/KPI's Hyperlinks.md",
-    "Z98.Pictures/Pasted image 20231211105534.png",
-    "Z98.Pictures/Pasted image 20231213125459.png",
-    "Excalidraw",
-    "WMKPI/Universal Notes For KPI.md",
-    "README.md",
-    "2023-12-08.md",
-    "WMKPI/030.000 Execution Summary.md",
-    "[KPI Map.canvas",
-    "WMKPI/030.020 Compliance to Plan Operational Work Centre.md",
-    "WMKPI/030.015 Compliance to Plan.md",
-    "WMKPI/000.005 Interactive Summary.md",
-    "WMKPI/005.000 Identify Summary.md",
-    "WMKPI/010.005 Approved Unactioned Notifications.md",
-    "WMKPI/030.025 Scheduled Maintenance Ratio.md",
-    "WMKPI/035.000 Complete Summary.md",
-    "CCMPSM01_38Q11202_Christmas Creek Mine Site Nullagine RD AHS Install Workshop Office_0085_001.pdf",
-    "CCMPSM01_38Q11202_Christmas Creek Mine Site Nullagine RD AHS Install Workshop Office_0083_001.pdf",
-    "CLBPSM01_2YN12466-CLB_PRN_MM_Planners_3321_001.pdf",
-    "CLBPSM01_2YN12466-CLB_PRN_MM_Planners_3324_001.pdf",
-    "CLBPSM01_2YN12466-CLB_PRN_MM_Planners_3325_001.pdf",
-    "Z98.Pictures",
-    "Z97.Notes",
-    "CLBPSM01_2YN12466-CLB_PRN_MM_Planners_3323_001.pdf",
-    "CLBPSM01_2YN12466-CLB_PRN_MM_Planners_3322_001.pdf",
-    "Pasted image 20231211053556.png",
-    "Untitled 1.canvas"
+    "Z97.Notes/Compliance Status (Reasons Why Verbose).md",
+    "Z98.Pictures/Pasted Image 20231214084308_687.png",
+    "Z98.Pictures/Pasted image 20231214084237.png"
   ]
 }

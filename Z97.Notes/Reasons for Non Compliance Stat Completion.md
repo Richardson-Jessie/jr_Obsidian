@@ -1,6 +1,5 @@
 tags:
-	#KeyPerformanceIndicatorProject 
-	 #KeyPerformanceReasons
+	#KeyPerformanceIndicatorProject #KeyPerformanceReasons
 	  #GapReporting
 
 links:

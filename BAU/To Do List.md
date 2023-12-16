@@ -25,6 +25,9 @@
 - [x] Pulse Survey Remind Team
 	- [ ] Send Follow Up
 
+- [ ] [[Steve Origin Indicators]]
+
+
 SELECT * FROM "QUERY"."WorkOrderLongTextString_Temporal" WHERE "OrderNumber" = '002100283802';
 
 [[CHange Freeze]]
@@ -46,3 +49,4 @@ Blog Posts
 
 
 ![[Pasted image 20231215111603.png]]
+

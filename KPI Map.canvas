@@ -28,8 +28,9 @@
 		{"id":"b7b09391a6555387","type":"file","file":"WMKPI/030.010 Preventative Maintenance Compliance.md","x":2560,"y":-4680,"width":800,"height":680},
 		{"id":"372e6dbc49c38070","type":"file","file":"Excalidraw/SUMMARY to Dashboard Wire Frame.md","x":-3926,"y":-4529,"width":1646,"height":1249},
 		{"id":"2006c284fc136b6b","type":"file","file":"Excalidraw/SUMMARY to Dashboard Wire Frame.md","x":1080,"y":-4080,"width":800,"height":870},
-		{"id":"d3229c969edb81e4","type":"file","file":"Z98.Pictures/Pasted image 20231215052703.png","x":4280,"y":-5400,"width":5880,"height":365},
-		{"id":"3adf185091818846","type":"text","text":"TECO Orders in Weeks After Close\n\n```SQL\nWHERE T1.\"OrderNumber\" = 002200507956\nORDER BY T1.\"ReportingWeek\" DESC;\n```\n\n\nDo We need to consider a where clause to remove the TECO'd Orders ","x":3720,"y":-5320,"width":453,"height":380}
+		{"id":"3adf185091818846","type":"text","text":"TECO Orders in Weeks After Close\n\n```SQL\nWHERE T1.\"OrderNumber\" = 002200507956\nORDER BY T1.\"ReportingWeek\" DESC;\n```\n\n\nQUALIFY Clause to Remove Orders\n\n``` SQL\nQUALIFY LAG(T3.\"CompletionDate\", 1) OVER (PARTITION BY T1.\"OrderNumber\"\n\nORDER BY \"ReportingWeek\" ASC NULLS LAST) IS NULL\n```\n\nRoot Cause for this scenario is the snapshots are -15 days before the reporting week start.\n\n![[Pasted image 20231216070929.png]]","x":3480,"y":-5360,"width":560,"height":640},
+		{"id":"d3229c969edb81e4","type":"file","file":"Z98.Pictures/Pasted image 20231215052703.png","x":4140,"y":-5380,"width":5880,"height":365},
+		{"id":"38e9245789a9e284","x":5520,"y":-4840,"width":1072,"height":287,"type":"file","file":"Z98.Pictures/Pasted image 20231216085524.png"}
 	],
 	"edges":[
 		{"id":"4dabb50d42ce9ad7","fromNode":"90934fc9a8630b77","fromSide":"right","toNode":"c208fc9ebce63f7a","toSide":"left"},
@@ -60,6 +61,7 @@
 		{"id":"bc4c1bae252f4729","fromNode":"8497987e8d2ba873","fromSide":"right","toNode":"96cbcedba0df5f88","toSide":"left"},
 		{"id":"db96cba4fabb96a0","fromNode":"671b03dfcdc6b889","fromSide":"right","toNode":"5319fb237d4ed1ee","toSide":"left"},
 		{"id":"363ca69dedf46cde","fromNode":"c208fc9ebce63f7a","fromSide":"right","toNode":"3adf185091818846","toSide":"left"},
-		{"id":"199b0eb3c76c21f7","fromNode":"3adf185091818846","fromSide":"right","toNode":"d3229c969edb81e4","toSide":"left"}
+		{"id":"199b0eb3c76c21f7","fromNode":"3adf185091818846","fromSide":"right","toNode":"d3229c969edb81e4","toSide":"left"},
+		{"id":"8369a7af4877cded","fromNode":"c208fc9ebce63f7a","fromSide":"right","toNode":"38e9245789a9e284","toSide":"left","label":"Scenario where dates are compliant but order has not been technically completed until well after the time was confirmed"}
 	]
 }

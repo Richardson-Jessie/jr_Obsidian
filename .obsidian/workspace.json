@@ -27,9 +27,9 @@
               "state": {
                 "file": "KPI Map.canvas",
                 "viewState": {
-                  "x": 4439.029459810775,
-                  "y": -4940.027104119989,
-                  "zoom": -0.9200590582436277
+                  "x": 1943.0697410054668,
+                  "y": -3527.1020680307242,
+                  "zoom": -0.5867257249102942
                 }
               }
             }
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -182,9 +182,9 @@
   },
   "active": "3f217701e3f3f464",
   "lastOpenFiles": [
+    "KPI Map.canvas",
     "Z97.Notes/CHange Freeze.md",
     "Z98.Pictures/Pasted image 20231214094045.png",
-    "KPI Map.canvas",
     "Excalidraw/Drawing 2023-12-17 08.57.20.excalidraw.md",
     "BAU/To Do List.md",
     "Z97.Notes/Steve Origin Indicators.md",

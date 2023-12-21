@@ -11,31 +11,18 @@
             "id": "2badc02d253c5d51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BAU/To Do List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f217701e3f3f464",
-            "type": "leaf",
-            "state": {
               "type": "canvas",
               "state": {
                 "file": "KPI Map.canvas",
                 "viewState": {
-                  "x": 1943.0697410054668,
-                  "y": -3527.1020680307242,
-                  "zoom": -0.5867257249102942
+                  "x": 3940.2685101359875,
+                  "y": -2141.9557745678976,
+                  "zoom": 1
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 406.5
   },
   "right": {
     "id": "53d772aa2afb52b8",
@@ -180,30 +167,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f217701e3f3f464",
+  "active": "2badc02d253c5d51",
   "lastOpenFiles": [
+    "README.md",
+    "WMKPI/030.000 Execution Summary.md",
+    "WMKPI/030.025 Scheduled Maintenance Ratio.md",
+    "BAU/To Do List.md",
+    "Excalidraw/Drawing 2023-12-21 07.00.44.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-17 08.57.20.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-13 17.53.25.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-13 13.10.05.excalidraw.md",
+    "BAU/Weekly Update.canvas",
+    "Z98.Pictures/Pasted Image 20231221070101_103.png",
     "KPI Map.canvas",
+    "Z98.Pictures/Pasted image 20231220074304.png",
+    "Z97.Notes/User Status Outlier.md",
     "Z97.Notes/CHange Freeze.md",
     "Z98.Pictures/Pasted image 20231214094045.png",
-    "Excalidraw/Drawing 2023-12-17 08.57.20.excalidraw.md",
-    "BAU/To Do List.md",
     "Z97.Notes/Steve Origin Indicators.md",
     "Z98.Pictures/Pasted image 20231216085524.png",
     "Z98.Pictures/Pasted image 20231216070854.png",
     "Z98.Pictures/Pasted image 20231216070929.png",
-    "BAU/Weekly Update.canvas",
     "Z98.Pictures/Recursive Query.png",
     "Z98.Pictures/Pasted image 20231214084237.png",
     "Z98.Pictures/Pasted Image 20231214084308_687.png",
     "Z98.Pictures/Pasted image 20231214094206.png",
-    "Z98.Pictures/Pasted image 20231215052538.png",
-    "Z98.Pictures/Pasted image 20231215052628.png",
     "Z98.Pictures/Drawing 2023-12-15 16.37.15.excalidraw.md",
     "Z99.Junk/KPI's Hyperlinks.md",
     "Z99.Junk/Northy LV Email.md",
     "Z99.Junk/SAPProjectReferenceObject1!.md",
-    "Excalidraw/Drawing 2023-12-13 13.10.05.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-13 17.53.25.excalidraw.md",
     "Excalidraw/Drawing 2023-12-15 09.23.08.excalidraw.md",
     "Excalidraw/Drawing 2023-12-15 05.25.56.excalidraw.md",
     "Excalidraw/SUMMARY to Dashboard Wire Frame.md",
@@ -215,11 +207,7 @@
     "Z97.Notes/Final Due Date.md",
     "Z97.Notes/Compliance Status (Reasons Why Verbose).md",
     "BAU/CAB.md",
-    "WMKPI/000.000 Executive Summary.md",
-    "Drawing 2023-12-14 05.13.33.excalidraw.md",
     "Untitled.canvas",
-    "Z97.Notes/Reasons for Non Compliance Stat Completion.md",
-    "Z97.Notes/Stat Compliance Variance Calcs.md",
     "Excalidraw",
     "[KPI Map.canvas",
     "CCMPSM01_38Q11202_Christmas Creek Mine Site Nullagine RD AHS Install Workshop Office_0085_001.pdf",
